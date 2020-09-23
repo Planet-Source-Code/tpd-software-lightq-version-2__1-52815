@@ -1,0 +1,18 @@
+LIGHTQ Copyright
+----------------
+
+LightQ is an Aargon clone
+
+The complete game engine was written by TPD Software - Daniel van Els (me)
+All copyrights go to me accept for the game sprites, credits go to dexterity software
+who originally developed the game sprites.
+
+All code is copyrighted, but i give permission to use code pieces for own use.
+
+Code may be copied to others as long as al original content is included
+as the name and copyrights.
+(It's easy to call yourself a programmer by simply changing the name of the game and placing your name on top)
+
+have fun with this game
+
+Daniel van Els

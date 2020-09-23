@@ -1,0 +1,25 @@
+DIAGONALS
+      .      .      .      .      .      .      .      .      .      .      .      .WL_2  .WL_2  .WL_2  .WL_2  .      .      .      .      .      .      .      
+      .      .      .      .      .      .      .      .      .      .      .WL_2  .WL_2  .      .      .WL_2  .      .      .      .      .      .      .      
+      .      .      .      .      .      .      .      .      .      .WL_2  .WL_2  .      .CO_5  .      .WL_2  .WL_2  .      .      .      .      .      .      
+      .      .      .      .      .      .      .      .      .WL_2  .WL_2  .      .CO_5  .      .WL_2  .WL_2  .WL_2  .WL_2  .      .      .      .      .      
+      .      .      .      .      .      .      .      .WL_2  .WL_2  .      .CO_5  .      .WL_2  .WL_2  .CO_5  .      .WL_2  .WL_2  .      .      .      .      
+      .      .      .      .      .      .      .WL_2  .WL_2  .      .      .      .WL_2  .WL_2  .WL_2  .      .      .      .WL_2  .WL_2  .      .      .      
+      .      .      .      .      .      .WL_2  .WL_2  .      .      .      .WL_2  .WL_2  .WL_2  .      .      .      .WL_2  .WL_2  .      .      .      .      
+      .      .      .      .      .WL_2  .WL_2  .      .CO_5  .      .      .      .WL_2  .      .      .      .WL_2  .WL_2  .      .      .      .      .      
+      .      .      .      .WL_2  .WL_2  .      .CO_5  .      .WL_2  .      .      .      .      .      .WL_2  .WL_2  .      .      .      .      .      .      
+      .WL_2  .WL_2  .WL_2  .WL_2  .      .CO_5  .      .WL_2  .      .CO_5  .WL_2  .      .WL_2  .      .      .WL_2  .WL_2  .      .      .      .      .      
+WL_2  .WL_2  .WL_2  .WL_2  .      .      .      .WL_2  .      .CO_5  .      .WL_2  .      .WL_2  .      .      .      .WL_2  .WL_2  .      .      .      .      
+WL_2  .WL_2  .CO_5  .      .      .      .WL_2  .WL_2  .WL_2  .      .WL_2  .WL_2  .      .WL_2  .WL_2  .      .      .      .WL_2  .WL_2  .      .      .      
+      .WL_2  .WL_2  .      .      .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .      .WL_2  .      .CO_5  .      .WL_2  .WL_2  .WL_2  .WL_2  .      .      
+      .      .WL_2  .WL_2  .CO_5  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .LS_1:5.WL_2  .CO_5  .      .WL_2  .WL_2  .WL_2  .WL_2  .      .      .      
+      .      .      .WL_2  .WL_2  .WL_2  .WL_2  .      .      .      .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .WL_2  .      .      .      .      
+      .      .      .      .WL_2  .WL_2  .      .      .      .      .      .WL_2  .WL_2  .WL_2  .      .      .      .WL_2  .      .      .      .      .      
+7
+MR_8=r
+SP_8=r
+AS_8=r
+SP_8=r
+AS_8=r
+AS_8=r
+MR_8=r
