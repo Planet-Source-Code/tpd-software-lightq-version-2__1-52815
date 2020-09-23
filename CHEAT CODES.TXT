@@ -1,0 +1,8 @@
+Cheat codes for LightQ v2.0.1
+
+- When you are in the main menu, enter these codes to unlock some cheats
+
+     iamthebest           Standard pack all levels cheat
+     freezemines          Mines don't move
+     dontblowme           Barrels do not explode
+     dontbesuperman       Reset all cheat codes
